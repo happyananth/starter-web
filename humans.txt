@@ -6,16 +6,16 @@
     <name> -- <Anantha Selva> -- <twitter>
 	added more
 	more
-change in master
+	resolved
 
 # THANKS
 
     <name>
 
 # TECHNOLOGY COLOPHON
-
-    HTML5, CSS3, Google cloud
+   HTML5, CSS3, Google cloud
 	AWS
+
 
 
 New
