@@ -1,7 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-added to amster for rebase
-second add for rebase
+this is master
 
 # TEAM
 
