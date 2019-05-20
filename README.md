@@ -6,7 +6,11 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+
 adding more rebase
+
+added new changes in remote
+
 
 new
 
